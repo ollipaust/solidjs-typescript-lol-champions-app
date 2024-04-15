@@ -5,7 +5,7 @@ Everything you need to build a Solid project, powered by [`solid-start`](https:/
 
 ## Developing
 
-Once you've cloned the project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've cloned the project locally and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
 npm run dev
